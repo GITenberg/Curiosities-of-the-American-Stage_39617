@@ -1,0 +1,28 @@
+_repo: Curiosities-of-the-American-Stage_39617
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39617-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hutton, Laurence
+    birthdate: 1843
+    deathdate: 1904
+    gutenberg_agent_id: '33644'
+    url: http://www.gutenberg.org/2009/agents/33644
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Hutton
+description: ''
+gutenberg_issued: '2012-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39617'
+  lccn: '11020066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- United States -- History'
+- !lcc 'PN'
+title: Curiosities of the American Stage
+url: http://www.gutenberg.org/ebooks/39617
